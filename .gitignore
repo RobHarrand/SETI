@@ -1,0 +1,11 @@
+breakthrough-master/
+data/
+misc/
+my_generated_images/
+Papers/
+venv/
+notebooks/old notebooks/
+notebooks/.ipynb_checkpoints/
+notebooks/SETI Pipeline/cnn_outputs/
+notebooks/SETI Pipeline/images/
+notebooks/SETI Pipeline/.ipynb_checkpoints/
